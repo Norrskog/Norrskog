@@ -1,16 +1,31 @@
-## Hi there 👋
+## 👋 Hi there
 
-<!--
-**Norrskog/Norrskog** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a technical writer who combines the skills to structure, write, localize, automate, and train others.
 
-Here are some ideas to get you started:
+## 🗂 I Structure
+- Plan and organize information
+- Follow industry standards and best practices
+  - Topic-based authoring
+  - Single sourcing
+  - Information mapping
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✍️ I Write
+- User guides
+- Developer docs
+- UI microcopy
+- API docs
+
+## ⚙️ I Automate
+- Documentation processes
+- Documentation deployment
+- Localization
+- Recurring tasks
+
+## 🎓 I Train
+- **To use tools**: SSGs, Redoc, Postman, Swagger Editor, PlantUML, Git
+- **To implement methodologies**: topic-based authoring, single sourcing, information mapping, documentation structuring
+- **To integrate processes and practices**: setting up documentation pipelines, automating recurring tasks
+
+## 📫 I Connect
+- **LinkedIn**: [maratyapparov](https://www.linkedin.com/in/maratyapparov/)
+- **Email**: `mar.yapparov@gmail.com`
